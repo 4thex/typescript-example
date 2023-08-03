@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "X/*":["converter/*"]
+      },
+      "target": "es5",
+      "module": "commonjs",
+      "outDir": "out",
+      "sourceMap": true
+    },
+    "include": ["**/*.ts", "**/*.js"]
+  }

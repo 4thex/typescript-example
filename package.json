@@ -1,0 +1,17 @@
+{
+  "name": "typescript-example",
+  "version": "1.0.0",
+  "description": "https://code.visualstudio.com/docs/typescript/typescript-tutorial",
+  "main": "index.js",
+  "_moduleAliases": {
+    "X/converter": "out/converter/converter.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "module-alias": "^2.2.3"
+  }
+}

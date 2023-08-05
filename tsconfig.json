@@ -1,8 +1,9 @@
 {
     "compilerOptions": {
+      "rootDir": ".",
       "baseUrl": ".",
       "paths": {
-        "X/*":["converter/*"]
+        "#X/*":["./converter/*"]
       },
       "target": "es5",
       "module": "commonjs",
